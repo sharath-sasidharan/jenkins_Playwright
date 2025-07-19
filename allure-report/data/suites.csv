@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2899","get started link","chromium","Sat Jul 19 20:20:31 IST 2025","passed","Sat Jul 19 20:20:34 IST 2025","","example.spec.js","",""
+"","2138","has title","chromium","Sat Jul 19 20:20:31 IST 2025","passed","Sat Jul 19 20:20:33 IST 2025","","example.spec.js","",""
