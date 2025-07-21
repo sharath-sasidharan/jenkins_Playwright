@@ -12,5 +12,8 @@
     "@types/node": "^24.0.15",
     "allure-commandline": "^2.34.1",
     "allure-playwright": "^3.3.2"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0"
   }
 }

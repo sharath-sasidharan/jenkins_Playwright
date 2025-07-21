@@ -1,0 +1,6 @@
+MOCKING RESPONSE API INTERCEPTING
+FILLING DATA FROM EXCEL 
+✅ Handling flaky elements (with retry or wait)
+Dynamic dropdowns / autocomplete fields
+
+CI/CD TOOLS > JENKINS (FREESOURCE PROJECT)

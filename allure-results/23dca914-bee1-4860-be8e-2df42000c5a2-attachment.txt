@@ -1,0 +1,10 @@
+[
+  'http://www.deadlinkcity.com/error-page.asp?e=400',
+  'http://www.deadlinkcity.com/error-page.asp?e=401',
+  'http://www.deadlinkcity.com/error-page.asp?e=403',
+  'http://www.deadlinkcity.com/error-page.asp?e=404',
+  'http://www.deadlinkcity.com/error-page.asp?e=408',
+  'http://www.deadlinkcity.com/error-page.asp?e=500',
+  'http://www.deadlinkcity.com/error-page.asp?e=502',
+  'http://www.deadlinkcity.com/error-page.asp?e=503'
+] ==

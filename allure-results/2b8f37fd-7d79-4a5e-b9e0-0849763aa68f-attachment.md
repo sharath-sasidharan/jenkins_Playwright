@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "image not displaying":
+    - /url: http://www.automationtesting.in
+    - img "image not displaying"
+  - heading "Automation Demo Site" [level=1]
+  - link "Automation software":
+    - img
+    - text: Automation software
+  - insertion:
+    - iframe
+  - navigation:
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: Index.html
+      - listitem:
+        - link "Register":
+          - /url: Register.html
+      - listitem:
+        - link "WebTable":
+          - /url: WebTable.html
+      - listitem:
+        - link "SwitchTo":
+          - /url: SwitchTo.html
+        - text: 
+      - listitem:
+        - link "Widgets":
+          - /url: Widgets.html
+        - text: 
+      - listitem:
+        - link "Interactions":
+          - /url: Interactions.html
+        - text: 
+      - listitem:
+        - link "Video":
+          - /url: SwitchTo.html
+        - text: 
+      - listitem:
+        - link "WYSIWYG":
+          - /url: WYSIWYG.html
+        - text: 
+      - listitem:
+        - link "More":
+          - /url: "#"
+        - text: 
+      - listitem:
+        - link "Practice Site":
+          - /url: http://practice.automationtesting.in/
+- heading "File Download Demo for Automation" [level=2]
+- link "Download":
+  - /url: https://github.com//sakinala/AutomationTesting/raw/master/samplefile.pdf
+- link "Automation software":
+  - img
+  - text: Automation software
+- text: Generated Text File to Download
+- paragraph: By default Download link will be hidden.
+- insertion:
+  - iframe
+- paragraph: You need to enter data in the textarea and click on 'Generate File' button to activate download link.
+- paragraph: Data entered in the below textarea will be download with file name 'info.txt'.
+- text: "Enter Data:"
+- textbox
+- text: 1000 characters remaining
+- button "Generate File" [disabled]
+- insertion:
+  - iframe
+- text: Generated PDF File to Download
+- paragraph: By default Download link will be hidden.
+- paragraph: You need to enter data in the textarea and click on 'Generate File' button to activate download link.
+- paragraph: Data entered in the below textarea will be download with file name 'info.pdf'.
+- text: "Enter Data:"
+- textbox
+- text: 1000 characters remaining
+- button "Generate File" [disabled]
+- insertion:
+  - iframe
+- insertion:
+  - iframe
+- insertion:
+  - iframe
+- text: "\"@ 2016\""
+- link "Automation Testing":
+  - /url: "#"
+- text: "\"All Rights Reserved.\""
+- link "":
+  - /url: https://www.facebook.com/automationtesting2016/
+- link "":
+  - /url: https://twitter.com/krishnasakinala
+- link "":
+  - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+- link "":
+  - /url: https://plus.google.com/105286300926085335367
+- link "":
+  - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+```

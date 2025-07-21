@@ -26,7 +26,7 @@ export default defineConfig({
   reporter: [["html"], ["allure-playwright"]],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
-    screenshot: "on",
+    screenshot: "only-on-failure",
     headless: false,
     /* Base URL to use in actions like `await page.goto('/')`. */
     // baseURL: 'http://localhost:3000',

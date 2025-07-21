@@ -1,0 +1,20 @@
+[
+  {
+    id: '1',
+    name: 'steve',
+    email: 'steve@gmail.com',
+    phone: '9867546373'
+  },
+  {
+    id: '2',
+    name: 'moses',
+    email: 'moses@gmail.com',
+    phone: '9867546373'
+  },
+  {
+    id: '3',
+    name: 'mark',
+    email: 'mark@gmail.com',
+    phone: '9867546373'
+  }
+]

@@ -1,0 +1,16 @@
+400 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=400 - Status: 400
+401 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=401 - Status: 401
+403 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=403 - Status: 403
+404 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=404 - Status: 404
+408 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=408 - Status: 408
+500 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=500 - Status: 500
+502 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=502 - Status: 502
+503 status
+❌ Broken link: http://www.deadlinkcity.com/error-page.asp?e=503 - Status: 503

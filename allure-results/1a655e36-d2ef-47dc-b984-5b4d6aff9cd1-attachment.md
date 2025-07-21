@@ -1,0 +1,339 @@
+# Page snapshot
+
+```yaml
+- list:
+  - listitem:
+    - link "":
+      - /url: https://www.facebook.com/HYRTutorials/
+  - listitem:
+    - link "":
+      - /url: https://twitter.com/hyrtutorials
+  - listitem:
+    - link "":
+      - /url: https://github.com/YadaGiriReddy/
+  - listitem:
+    - link "":
+      - /url: https://www.instagram.com/hyrtutorials/
+  - listitem:
+    - link "":
+      - /url: https://www.linkedin.com/company/hyrtutorials/
+  - listitem:
+    - link "":
+      - /url: https://www.youtube.com/hyrtutorials
+- list:
+  - listitem:  Jul 20, 2025
+  - listitem:
+    - link "Home":
+      - /url: https://www.hyrtutorials.com
+  - listitem:
+    - link "Contact":
+      - /url: https://www.hyrtutorials.com/p/contactus.html
+- link "HYR":
+  - /url: https://www.hyrtutorials.com/
+  - img "HYR"
+- insertion:
+  - iframe
+- listitem:
+  - link " Home":
+    - /url: https://www.hyrtutorials.com/
+- list:
+  - listitem:
+    - link "Tech News":
+      - /url: https://www.hyrtutorials.com/search/label/TechNews
+  - listitem:
+    - link "Tutorials ":
+      - /url: https://www.hyrtutorials.com/search/label/Tutorials
+  - listitem:
+    - link "YouTube Courses ":
+      - /url: "#"
+  - listitem:
+    - link "Selenium Practice ":
+      - /url: "#"
+  - listitem:
+    - link "Contact":
+      - /url: https://www.hyrtutorials.com/p/contactus.html
+- heading "Window Handles Practice" [level=1]
+- article:
+  - text: This page is used for practicing window handles, in other words- switching between multiple windows/tabs in the browser.
+  - paragraph: This textbox is used for entering the text after switching back from child windows to parent window.
+  - textbox
+  - heading "Button1" [level=3]
+  - paragraph: This button is used for opening a new browser window.
+  - button "Open New Window"
+  - heading "Button2" [level=3]
+  - paragraph: This button is used for opening a new tab in the existing browser window.
+  - button "Open New Tab"
+  - heading "Button3" [level=3]
+  - paragraph: This button is used for opening multiple browser windows.
+  - button "Open Multiple Windows"
+  - heading "Button4" [level=3]
+  - paragraph: This button is used for opening multiple tabs in the existing browser.
+  - button "Open Multiple Tabs"
+  - heading "Button5" [level=3]
+  - paragraph: This button is used for opening multiple tabs in the existing browser and multiple browser windows.
+  - button "Open Multiple Tabs and Windows"
+- heading "Support My Work" [level=2]
+- link "Buy me a coffee":
+  - /url: https://buymeacoffee.com/yadagirireddy
+  - img
+  - text: Buy me a coffee
+- heading "Subscribe to YouTube channels" [level=2]
+- iframe
+- iframe
+- heading "Telegram" [level=2]
+- link "Join Telegram Channel":
+  - /url: https://xn--r1a.click/hyrtutorials
+  - img
+  - text: Join Telegram Channel
+- insertion:
+  - iframe
+- heading "Facebook" [level=2]
+- iframe
+- heading "Twitter" [level=2]
+- iframe
+- list:
+  - listitem:
+    - link "Popular":
+      - /url: "#tabside1"
+  - listitem:
+    - link "Recent":
+      - /url: "#tabside2"
+  - listitem:
+    - link "Comments":
+      - /url: "#tabside3"
+- list:
+  - listitem:
+    - link "31":
+      - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+      - img "31"
+    - link "Write a java program to print the English Alphabet in Upper case and Lower case":
+      - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+  - listitem:
+    - link "Arrays%20(Single-dimensional)%20in%20Java":
+      - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+      - img "Arrays%20(Single-dimensional)%20in%20Java"
+    - link "Arrays in Java":
+      - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+  - listitem:
+    - link "Apache+maven":
+      - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+      - img "Apache+maven"
+    - link "Maven uninstallation on Microsoft Windows":
+      - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+  - listitem:
+    - link "30":
+      - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+      - img "30"
+    - link "Write a java program to print the factors of a given number":
+      - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+  - listitem:
+    - link "Perform+Mouse+Actions+in+Selenium+WebDriver":
+      - /url: https://www.hyrtutorials.com/2021/07/perform-mouse-actions-in-selenium.html
+      - img "Perform+Mouse+Actions+in+Selenium+WebDriver"
+    - link "Perform Mouse Actions in Selenium WebDriver - Part 23":
+      - /url: https://www.hyrtutorials.com/2021/07/perform-mouse-actions-in-selenium.html
+- insertion:
+  - iframe
+- heading "Archive" [level=2]
+- combobox:
+  - option "Archive" [selected]
+  - option "April (4)"
+  - option "March (10)"
+  - option "February (10)"
+  - option "January (13)"
+  - option "December (5)"
+  - option "October (5)"
+  - option "September (2)"
+  - option "June (21)"
+  - option "May (10)"
+  - option "April (1)"
+  - option "March (25)"
+  - option "February (3)"
+  - option "January (1)"
+  - option "July (6)"
+  - option "June (10)"
+  - option "May (5)"
+  - option "April (7)"
+  - option "March (2)"
+  - option "December (1)"
+  - option "November (3)"
+  - option "October (8)"
+  - option "September (4)"
+  - option "August (2)"
+  - option "July (2)"
+  - option "May (7)"
+  - option "April (4)"
+  - option "March (2)"
+  - option "January (1)"
+  - option "November (1)"
+  - option "October (4)"
+  - option "September (5)"
+  - option "July (13)"
+  - option "June (13)"
+  - option "April (8)"
+  - option "March (10)"
+  - option "February (16)"
+  - option "January (1)"
+  - option "September (1)"
+  - option "August (5)"
+- heading "Tags" [level=2]
+- link ".NET":
+  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+- link "Apache POI":
+  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+- link "AutomationTesting":
+  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+- link "Eclipse":
+  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+- link "Java":
+  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+- link "Maven":
+  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+- link "Selenium":
+  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+- link "Shorts":
+  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+- link "SQL":
+  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+- link "TechNews":
+  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+- link "Testing":
+  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+- link "TestNG":
+  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+- link "Tutorials":
+  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+- link "Web Automation":
+  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+- link "Windows Automation":
+  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+- insertion:
+  - iframe
+- heading "Recent Tutorials" [level=2]
+- link:
+  - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+- heading "Arrays in Java" [level=3]:
+  - link "Arrays in Java":
+    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+- text: Yada Giri ReddyApr 16, 2023
+- link:
+  - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+- heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3]:
+  - link "Write a java program to print the English Alphabet in Upper case and Lower case":
+    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+- text: Yada Giri ReddyApr 08, 2023
+- link:
+  - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+- heading "Write a java program to print the factors of a given number" [level=3]:
+  - link "Write a java program to print the factors of a given number":
+    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+- text: Yada Giri ReddyApr 05, 2023
+- link:
+  - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+- heading "Write a java program to print the factorial of a given number" [level=3]:
+  - link "Write a java program to print the factorial of a given number":
+    - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+- text: Yada Giri ReddyApr 02, 2023
+- link:
+  - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+- heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3]:
+  - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop":
+    - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+- text: Yada Giri ReddyMar 30, 2023
+- heading "Total Pageviews" [level=2]
+- strong: "1"
+- strong: "2"
+- strong: "9"
+- strong: "7"
+- strong: "8"
+- strong: "2"
+- strong: "9"
+- strong: "6"
+- heading "Tech News" [level=2]
+- list:
+  - listitem:
+    - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025":
+      - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+    - text: "- 1/2/2025"
+  - listitem:
+    - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features"':
+      - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+    - text: "- 12/12/2023"
+  - listitem:
+    - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier":
+      - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+    - text: "- 1/26/2023"
+  - listitem:
+    - link "Top 10 AI Content Generator & Writer Tools in 2022":
+      - /url: https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html
+    - text: "- 11/15/2022"
+  - listitem:
+    - link "Beginner Guide to CJ Affiliate (Commission Junction) in 2022":
+      - /url: https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html
+    - text: "- 9/10/2022"
+- heading "Connect With us" [level=2]
+- list:
+  - listitem:
+    - link "":
+      - /url: https://facebook.com/HYRTutorials
+  - listitem:
+    - link "":
+      - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+  - listitem:
+    - link "":
+      - /url: https://www.instagram.com/hyrtutorials
+  - listitem:
+    - link "":
+      - /url: https://linkedin.com/company/hyrtutorials
+  - listitem:
+    - link "":
+      - /url: https://t.me/hyrtutorials
+  - listitem:
+    - link "":
+      - /url: https://youtube.com/hyrtutorials
+- heading "Categories" [level=2]
+- link "Tutorials":
+  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+- link "Java":
+  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+- link "Testing":
+  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+- link "AutomationTesting":
+  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+- link "Web Automation":
+  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+- link "TechNews":
+  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+- link "Selenium":
+  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+- link "Shorts":
+  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+- link "TestNG":
+  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+- link "SQL":
+  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+- link "Eclipse":
+  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+- link "Maven":
+  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+- link "Apache POI":
+  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+- link ".NET":
+  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+- link "Windows Automation":
+  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+- insertion:
+  - iframe
+- text: Copyrights @ H Y R Tutorials - Designed by
+- link "Yada Giri Reddy":
+  - /url: https://www.linkedin.com/in/hyadagirireddy/
+- text: Crafted with by
+- link "TemplatesYard":
+  - /url: http://www.templatesyard.com/
+- text: "| Distributed by"
+- link "Blogger Themes":
+  - /url: http://www.mybloggerthemes.com/
+- img
+- link "Go to shopping options for Browser Security Tools": Browser Security Tools
+- button "Close shopping anchor"
+```
